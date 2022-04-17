@@ -1,0 +1,79 @@
+*{
+    background-color: rgb(212, 208, 208);
+}
+body{
+    background-color:rgb(248, 239, 239);
+    border: 5px solid rgb(10, 6, 6);
+    padding: 30px;
+    margin:20px;
+}
+p{
+    font-size: larger;
+}
+td{
+    font-size: larger;
+}
+.Restaurant{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 800px;
+    width:100%
+    
+
+}
+
+.center-big{
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    text-decoration: solid;
+    color: rgb(15, 15, 13);
+    font-size: 100px;
+    font-style: italic;
+    border:1px solid black;
+}
+.center{
+    text-align: center;
+    text-decoration: solid;
+}
+
+.container{
+    width:100%;
+    height: 500px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.menu{
+    box-sizing: border-box;
+    width:60%;
+    padding:10px;
+    margin:0px;
+    float:left;
+}
+
+.facts{
+    box-sizing: border-box;
+    width:40%;
+    padding:0px;
+    margin:0px;
+    float:right;
+}
+.location{
+    margin: 0px;
+    padding: 0px;
+}
+table,th,td{
+    border-collapse: collapse;
+    padding: 5px;
+}
+th{
+    font-size: 30px;
+}
+footer{
+
+    padding: -30px;
+    text-align: center;
+}
